@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Builds
+dist/
+build/
+
+# Env
+.env
+
+# Editor
+.vscode/
+*.code-workspace
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
